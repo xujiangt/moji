@@ -22,6 +22,7 @@ import org.apache.commons.io.FilenameUtils;
 /**
  * Client for communicating with the MOSS server socket. Handles the
  * configuration, sending of files and receiving results.
+ * author:jiangtao.xjt
  */
 public class SocketClient {
 	private static final String MESSAGE_UNKNOWN_LANGUAGE = "MOSS Server does not recognize this programming language";
